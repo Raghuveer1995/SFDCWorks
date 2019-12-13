@@ -6,17 +6,26 @@
             "c/bikeCard": [
                 "bikeCard/bikeCard.js"
             ],
+            "c/data": [
+                "data/data.js"
+            ],
+            "c/detail": [
+                "detail/detail.js"
+            ],
             "c/helloWorld": [
                 "helloWorld/helloWorld.js"
+            ],
+            "c/list": [
+                "list/list.js"
             ],
             "c/myFirstWebComponent": [
                 "myFirstWebComponent/myFirstWebComponent.js"
             ],
-            "c/data": [
-                "data/data.js"
-            ],
             "c/selector": [
                 "selector/selector.js"
+            ],
+            "c/tile": [
+                "tile/tile.js"
             ]
         }
     },
